@@ -70,10 +70,5 @@
   },
   "optionalDependencies": {
     "@discordjs/voice": "^0.16.1"
-  },
-  "pnpm": {
-    "patchedDependencies": {
-      "typedoc-plugin-merge-modules@5.1.0": "patches/typedoc-plugin-merge-modules@5.1.0.patch"
-    }
   }
 }
